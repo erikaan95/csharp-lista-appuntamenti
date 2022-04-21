@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-lista-appuntamenti", "csharp-lista-appuntamenti\csharp-lista-appuntamenti.csproj", "{37F20624-7CF8-4A42-9C6D-F18E62EF2550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F20624-7CF8-4A42-9C6D-F18E62EF2550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F20624-7CF8-4A42-9C6D-F18E62EF2550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F20624-7CF8-4A42-9C6D-F18E62EF2550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F20624-7CF8-4A42-9C6D-F18E62EF2550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9BA44AC-AEF1-4767-BC2C-374E9D30893B}
+	EndGlobalSection
+EndGlobal
